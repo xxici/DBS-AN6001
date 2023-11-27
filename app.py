@@ -4,9 +4,6 @@
 # In[7]:
 
 
-pip install flask
-
-
 # In[ ]:
 
 
